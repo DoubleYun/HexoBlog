@@ -25,6 +25,8 @@ tags: python
 第N+1次    n*15
 ```
 
+<!--more-->
+
 ## 2.打印第一页评论数据
 
 C:\20161031\yun\PythonDemo>jupyter notebook

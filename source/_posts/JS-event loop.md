@@ -30,6 +30,8 @@ process1 删除了该dom,而process2 编辑了该dom,同时下达2个矛盾的�
 
 ## 是通过的事件循环(event loop),理解了event loop机制,就理解了JS的执行机制
 
+<!--more-->
+
 # 2.JS中的event loop(1)
 
 例1,观察它的执行顺序

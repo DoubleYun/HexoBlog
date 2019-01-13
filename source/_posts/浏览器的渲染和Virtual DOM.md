@@ -8,6 +8,8 @@ tags: JS-DOM
 
 ![浏览器工作流程](浏览器的渲染和Virtual DOM/Render-Process-768x250.jpg)
 
+<!--more-->
+
 ### 上图解析如下：
 
 ##### 1) 浏览器会解析三个东西：
